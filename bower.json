@@ -1,0 +1,22 @@
+{
+  "name": "backbone tutorials with require",
+  "version": "0.0.0",
+  "authors": [
+    "Kevin Moore <k.james.moore@gmail.com>"
+  ],
+  "description": "see name",
+  "license": "MIT",
+  "homepage": "https://github.com/kevmo/bb-tut-req.git",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "jquery": "~2.1.3"
+  }
+}
